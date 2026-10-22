@@ -1,0 +1,84 @@
+2026-10-16 15:53:09,830 INFO    hourly_job: Loaded 157,824 rows from combined_dataset_from_IEX.csv
+2026-10-16 15:53:09,833 INFO    scraper: DAM_hourly 2022-04: fetching 2022-04-01..2022-04-30
+2026-10-16 15:53:14,674 INFO    page_client: Plain request gave 1 of 30 days; trying the browser (the table may be paginated)
+2026-10-16 15:53:57,896 INFO    weather_hourly: Hourly weather: open-meteo / Delhi
+2026-10-16 15:54:00,224 INFO    weather_hourly: Hourly weather: open-meteo / Mumbai
+2026-10-16 15:54:01,921 INFO    weather_hourly: Hourly weather: open-meteo / Chennai
+2026-10-16 15:54:03,587 INFO    weather_hourly: Hourly weather: open-meteo / Kolkata
+2026-10-16 15:54:05,249 INFO    weather_hourly: Hourly weather: open-meteo / Ahmedabad
+2026-10-16 15:54:06,938 INFO    weather_hourly: Hourly weather: nasa / Delhi
+2026-10-16 15:54:10,471 INFO    weather_hourly: Hourly weather: nasa / Mumbai
+2026-10-16 15:54:13,575 INFO    weather_hourly: Hourly weather: nasa / Chennai
+2026-10-16 15:54:16,688 INFO    weather_hourly: Hourly weather: nasa / Kolkata
+2026-10-16 15:54:19,813 INFO    weather_hourly: Hourly weather: nasa / Ahmedabad
+2026-10-16 15:57:14,180 INFO    hourly_job: Loaded 157,824 rows from combined_dataset_from_IEX.csv
+2026-10-16 15:57:14,181 INFO    scraper: DAM_hourly 2022-04: using cache
+2026-10-16 15:57:14,190 INFO    scraper: DAM_hourly 2022-05: fetching 2022-05-01..2022-05-31
+2026-10-16 15:57:18,012 INFO    page_client: Plain request gave 1 of 31 days; trying the browser (the table may be paginated)
+2026-10-16 15:57:26,992 WARNING scraper: DAM_hourly 2022-05: received 1 of 31 days (not cached, will be retried next run)
+2026-10-16 15:57:29,993 INFO    scraper: DAM_hourly 2022-06: fetching 2022-06-01..2022-06-30
+2026-10-16 15:57:36,309 INFO    page_client: Plain request gave 1 of 30 days; trying the browser (the table may be paginated)
+2026-10-16 15:58:07,473 INFO    scraper: DAM_hourly 2022-07: fetching 2022-07-01..2022-07-31
+2026-10-16 15:58:42,807 INFO    scraper: DAM_hourly 2022-08: fetching 2022-08-01..2022-08-31
+2026-10-16 15:59:20,007 INFO    scraper: DAM_hourly 2022-09: fetching 2022-09-01..2022-09-30
+2026-10-16 15:59:51,665 INFO    scraper: DAM_hourly 2022-10: fetching 2022-10-01..2022-10-31
+2026-10-16 16:00:22,763 INFO    scraper: DAM_hourly 2022-11: fetching 2022-11-01..2022-11-30
+2026-10-16 16:00:57,973 INFO    scraper: DAM_hourly 2022-12: fetching 2022-12-01..2022-12-31
+2026-10-16 16:01:32,835 INFO    scraper: DAM_hourly 2023-01: fetching 2023-01-01..2023-01-31
+2026-10-16 16:02:04,684 INFO    scraper: DAM_hourly 2023-02: fetching 2023-02-01..2023-02-28
+2026-10-16 16:02:32,339 INFO    scraper: DAM_hourly 2023-03: fetching 2023-03-01..2023-03-31
+2026-10-16 16:03:02,782 INFO    scraper: DAM_hourly 2023-04: fetching 2023-04-01..2023-04-30
+2026-10-16 16:03:32,659 INFO    scraper: DAM_hourly 2023-05: fetching 2023-05-01..2023-05-31
+2026-10-16 16:04:02,834 INFO    scraper: DAM_hourly 2023-06: fetching 2023-06-01..2023-06-30
+2026-10-16 16:04:34,014 INFO    scraper: DAM_hourly 2023-07: fetching 2023-07-01..2023-07-31
+2026-10-16 16:05:09,556 INFO    scraper: DAM_hourly 2023-08: fetching 2023-08-01..2023-08-31
+2026-10-16 16:05:41,864 INFO    scraper: DAM_hourly 2023-09: fetching 2023-09-01..2023-09-30
+2026-10-16 16:06:11,830 INFO    scraper: DAM_hourly 2023-10: fetching 2023-10-01..2023-10-31
+2026-10-16 16:06:40,868 INFO    scraper: DAM_hourly 2023-11: fetching 2023-11-01..2023-11-30
+2026-10-16 16:07:09,379 INFO    scraper: DAM_hourly 2023-12: fetching 2023-12-01..2023-12-31
+2026-10-16 16:07:41,055 INFO    scraper: DAM_hourly 2024-01: fetching 2024-01-01..2024-01-31
+2026-10-16 16:08:09,760 INFO    scraper: DAM_hourly 2024-02: fetching 2024-02-01..2024-02-29
+2026-10-16 16:08:36,729 INFO    scraper: DAM_hourly 2024-03: fetching 2024-03-01..2024-03-31
+2026-10-16 16:09:05,421 INFO    scraper: DAM_hourly 2024-04: fetching 2024-04-01..2024-04-30
+2026-10-16 16:09:33,977 INFO    scraper: DAM_hourly 2024-05: fetching 2024-05-01..2024-05-31
+2026-10-16 16:10:02,957 INFO    scraper: DAM_hourly 2024-06: fetching 2024-06-01..2024-06-30
+2026-10-16 16:10:31,878 INFO    scraper: DAM_hourly 2024-07: fetching 2024-07-01..2024-07-31
+2026-10-16 16:11:00,625 INFO    scraper: DAM_hourly 2024-08: fetching 2024-08-01..2024-08-31
+2026-10-16 16:11:30,017 INFO    scraper: DAM_hourly 2024-09: fetching 2024-09-01..2024-09-30
+2026-10-16 16:11:57,993 INFO    scraper: DAM_hourly 2024-10: fetching 2024-10-01..2024-10-31
+2026-10-16 16:12:26,797 INFO    scraper: DAM_hourly 2024-11: fetching 2024-11-01..2024-11-30
+2026-10-16 16:12:54,859 INFO    scraper: DAM_hourly 2024-12: fetching 2024-12-01..2024-12-31
+2026-10-16 16:13:23,924 INFO    scraper: DAM_hourly 2025-01: fetching 2025-01-01..2025-01-31
+2026-10-16 16:13:53,772 INFO    scraper: DAM_hourly 2025-02: fetching 2025-02-01..2025-02-28
+2026-10-16 16:14:20,736 INFO    scraper: DAM_hourly 2025-03: fetching 2025-03-01..2025-03-31
+2026-10-16 16:14:50,379 INFO    scraper: DAM_hourly 2025-04: fetching 2025-04-01..2025-04-30
+2026-10-16 16:15:18,529 INFO    scraper: DAM_hourly 2025-05: fetching 2025-05-01..2025-05-31
+2026-10-16 16:15:47,698 INFO    scraper: DAM_hourly 2025-06: fetching 2025-06-01..2025-06-30
+2026-10-16 16:16:16,052 INFO    scraper: DAM_hourly 2025-07: fetching 2025-07-01..2025-07-31
+2026-10-16 16:16:45,838 INFO    scraper: DAM_hourly 2025-08: fetching 2025-08-01..2025-08-31
+2026-10-16 16:17:14,707 INFO    scraper: DAM_hourly 2025-09: fetching 2025-09-01..2025-09-30
+2026-10-16 16:17:43,187 INFO    scraper: DAM_hourly 2025-10: fetching 2025-10-01..2025-10-31
+2026-10-16 16:18:12,450 INFO    scraper: DAM_hourly 2025-11: fetching 2025-11-01..2025-11-30
+2026-10-16 16:18:41,259 INFO    scraper: DAM_hourly 2025-12: fetching 2025-12-01..2025-12-31
+2026-10-16 16:19:10,359 INFO    scraper: DAM_hourly 2026-01: fetching 2026-01-01..2026-01-31
+2026-10-16 16:19:39,415 INFO    scraper: DAM_hourly 2026-02: fetching 2026-02-01..2026-02-28
+2026-10-16 16:20:05,908 INFO    scraper: DAM_hourly 2026-03: fetching 2026-03-01..2026-03-31
+2026-10-16 16:20:35,128 INFO    scraper: DAM_hourly 2026-04: fetching 2026-04-01..2026-04-30
+2026-10-16 16:21:03,509 INFO    scraper: DAM_hourly 2026-05: fetching 2026-05-01..2026-05-31
+2026-10-16 16:21:32,865 INFO    scraper: DAM_hourly 2026-06: fetching 2026-06-01..2026-06-30
+2026-10-16 16:22:02,076 INFO    scraper: DAM_hourly 2026-07: fetching 2026-07-01..2026-07-31
+2026-10-16 16:22:31,165 INFO    scraper: DAM_hourly 2026-08: fetching 2026-08-01..2026-08-31
+2026-10-16 16:23:00,067 INFO    scraper: DAM_hourly 2026-09: fetching 2026-09-01..2026-09-30
+2026-10-16 16:23:28,980 INFO    scraper: DAM_hourly 2026-10: fetching 2026-10-01..2026-10-16
+2026-10-16 16:23:45,451 INFO    hourly_job: Extending the 15-minute data from 2026-10-01
+2026-10-16 16:23:45,459 INFO    scraper: DAM 2026-10: fetching 2026-10-01..2026-10-16
+2026-10-16 16:24:10,110 INFO    weather_hourly: Hourly weather: open-meteo / Delhi
+2026-10-16 16:24:21,205 INFO    weather_hourly: Hourly weather: open-meteo / Mumbai
+2026-10-16 16:24:31,743 INFO    weather_hourly: Hourly weather: open-meteo / Chennai
+2026-10-16 16:24:42,407 INFO    weather_hourly: Hourly weather: open-meteo / Kolkata
+2026-10-16 16:24:54,140 INFO    weather_hourly: Hourly weather: open-meteo / Ahmedabad
+2026-10-16 16:25:04,959 INFO    weather_hourly: Hourly weather: nasa / Delhi
+2026-10-16 16:25:24,810 INFO    weather_hourly: Hourly weather: nasa / Mumbai
+2026-10-16 16:25:44,690 INFO    weather_hourly: Hourly weather: nasa / Chennai
+2026-10-16 16:26:03,868 INFO    weather_hourly: Hourly weather: nasa / Kolkata
+2026-10-16 16:26:23,375 INFO    weather_hourly: Hourly weather: nasa / Ahmedabad

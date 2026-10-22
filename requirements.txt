@@ -1,0 +1,6 @@
+requests>=2.31
+pandas>=2.0
+openpyxl>=3.1
+lxml>=5.0          # reads HTML tables if the site returns HTML instead of JSON
+playwright>=1.44   # only needed for: python main.py --discover
+pytest>=8.0        # only needed for the tests
